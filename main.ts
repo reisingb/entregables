@@ -4,8 +4,7 @@ import { Camion} from "./camiones";
 import { Moto } from "./motos";
 import {Registro} from "./registro";
 
-
-//nombre del registro
+ //nombre del registro
 const registro = new Registro ("Registro automotor de Olavarria");
 
 //crear autos 
@@ -53,7 +52,7 @@ const flota ={
     autos:[auto1,auto2,auto3,auto4,auto5],
     camiones: [camion1,camion2,camion3,camion4],
     motos: [moto1,moto2,moto3,moto4]
-}
+} 
 
 // guardo en una variable la informacion que queremos guardar los archivos en txt 
 const flotaData = JSON.stringify(flota, null, 2); 
