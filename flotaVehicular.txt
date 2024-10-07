@@ -1,0 +1,105 @@
+{
+  "autos": [
+    {
+      "marca": "lamborgini",
+      "modelo": "gallardo",
+      "anio": 2024,
+      "anioFabricacion": 2024,
+      "color": "negro",
+      "listaAutos": []
+    },
+    {
+      "marca": "Peugeot",
+      "modelo": "Compact",
+      "anio": 2024,
+      "anioFabricacion": 2005,
+      "color": "Negro",
+      "listaAutos": []
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "Uno",
+      "anio": 2024,
+      "anioFabricacion": 2000,
+      "color": "Azul",
+      "listaAutos": []
+    },
+    {
+      "marca": "ford",
+      "modelo": "mustang",
+      "anio": 2024,
+      "anioFabricacion": 2024,
+      "color": "negro",
+      "listaAutos": []
+    },
+    {
+      "marca": "volkwagen",
+      "modelo": "sirocco",
+      "anio": 2022,
+      "anioFabricacion": 2020,
+      "color": "plata",
+      "listaAutos": []
+    }
+  ],
+  "camiones": [
+    {
+      "marca": "mercedes",
+      "modelo": "f14",
+      "anio": 2024,
+      "anioFabricacion": 2024,
+      "color": "negro",
+      "listaCamiones": []
+    },
+    {
+      "marca": "volvo",
+      "modelo": "S60",
+      "anio": 2024,
+      "anioFabricacion": 2023,
+      "color": "Blanco",
+      "listaCamiones": []
+    },
+    {
+      "marca": "Scania",
+      "modelo": "R450",
+      "anio": 2024,
+      "anioFabricacion": 2024,
+      "color": "Blanco",
+      "listaCamiones": []
+    },
+    {
+      "marca": "volvo",
+      "modelo": "f150",
+      "anio": 2022,
+      "anioFabricacion": 2020,
+      "color": "negro",
+      "listaCamiones": []
+    }
+  ],
+  "motos": [
+    {
+      "marca": "Hoda",
+      "modelo": "CBR600",
+      "año": 2024,
+      "color": "Rojo",
+      "añoFabricacion": 2022
+    },
+    {
+      "marca": "Honda",
+      "modelo": "Ninja",
+      "año": 2024,
+      "color": "Verde"
+    },
+    {
+      "marca": "kawasaki",
+      "modelo": "Ninja",
+      "año": 2024,
+      "color": "Verde"
+    },
+    {
+      "marca": "kwasaki",
+      "modelo": "versys",
+      "año": 2022,
+      "color": "plata"
+    }
+  ]
+}
