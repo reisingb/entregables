@@ -1,0 +1,26 @@
+[33mcommit 20f5d23484b1d400fe4055fa787c897436d8b7d4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjuegoRPG[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 29d5104 f21f127
+Author: braian reising <164574303+reisingb@users.noreply.github.com>
+Date:   Mon Oct 7 00:31:51 2024 -0300
+
+    Merge pull request #1 from reisingb/trabajo-automotor
+    
+    trabajo automotor terminado
+
+[33mcommit f21f127aeb71fa50e7442dcbef11be32c1900659[m
+Author: braian reising <bra.reising@gmail.com>
+Date:   Wed Sep 25 01:42:10 2024 -0300
+
+    trabajo automotor terminado
+
+[33mcommit 29d5104378dbc0332e4c7c9842a24f6d10c695ad[m
+Author: braian reising <bra.reising@gmail.com>
+Date:   Sat Sep 14 16:34:59 2024 -0300
+
+    trabajo de consumir API
+
+[33mcommit ab5f7acbbff097c1defab6d0093cd1a79028b220[m
+Author: braian reising <164574303+reisingb@users.noreply.github.com>
+Date:   Wed Sep 4 19:47:52 2024 -0300
+
+    Initial commit
