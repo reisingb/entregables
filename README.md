@@ -1,0 +1,1 @@
+En este trabajo realice la clase personaje y cree los diferentes perosnajes todos el abstract que pueden atacar y defenderse. tuve problemas para mostrarlo por consola, no llegue a terminarlo pero lo entregue hasta donde llegue.
